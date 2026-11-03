@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T13:14:25.914Z",
+  "generated_at": "2026-11-06T13:14:28.400Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -222,6 +222,30 @@
       "last_pushed_at": "2026-11-02T07:33:43.030Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-11-03T06:58:05.945Z",
+      "last_pushed_at": "2026-11-03T06:58:05.945Z",
+      "language": "python",
+      "lines": 20
+    },
+    "math:12": {
+      "kind": "math",
+      "id": "12",
+      "title": "Inverse and Rank",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/12",
+      "path": "math/0012-inverse-and-rank",
+      "first_solved_at": "2026-11-03T07:03:51.737Z",
+      "last_pushed_at": "2026-11-03T07:03:51.737Z"
     }
   }
 }
