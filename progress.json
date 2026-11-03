@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T16:26:33.866Z",
+  "generated_at": "2026-11-03T16:38:05.556Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -63,6 +63,19 @@
       "last_pushed_at": "2026-11-03T16:26:32.952Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-11-03T16:38:04.068Z",
+      "last_pushed_at": "2026-11-03T16:38:04.068Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
