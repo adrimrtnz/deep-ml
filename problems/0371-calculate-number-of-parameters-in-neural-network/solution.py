@@ -17,13 +17,9 @@ def calculate_parameters(layers: list[dict]) -> int:
     for l in layers:
         l_type = l.get('type')
         in_label, out_label = labels.get(l_type)
-        bias = l.get('bias', True) 
-
-        if l_type == 'dense':
-            params += l[in_label] * l[out_label] + l[out_label]*bias
-        elif l_type == 'conv2d':
-            k = l.get('kernel_size', 1)
-            params += l[in_label] * l[out_label]*k*k + l[out_label]*bias
+        bias = l.get('bias', True)
+        k = l.get('kernel_size', 1)
+        params += l[in_label] * l[out_label]*k*k + l[out_label]*bias
 
 
     return params
