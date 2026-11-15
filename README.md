@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**41** solved · 31 problems · 0 labs · 10 math
+**42** solved · 32 problems · 0 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -42,6 +42,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-11-14 | [solution](problems/1109-your-first-join) |
 | [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2026-11-14 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-11-03 | [solution](problems/0009-matrix-times-matrix) |
+| [Nth-Highest Salary with Ties and NULL](https://www.deep-ml.com/problems/1110) | medium | 2026-11-15 | [solution](problems/1110-nth-highest-salary-with-ties-and-null) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-11-05 | [solution](problems/0312-quotient-rule-for-derivatives) |
 
 ## Math
