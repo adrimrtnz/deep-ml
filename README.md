@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**44** solved · 34 problems · 0 labs · 10 math
+**45** solved · 35 problems · 0 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Number of Parameters in Neural Network](https://www.deep-ml.com/problems/371) | easy | 2026-11-13 | [solution](problems/0371-calculate-number-of-parameters-in-neural-network) |
 | [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2026-11-03 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
 | [Count rows per group](https://www.deep-ml.com/problems/1107) | easy | 2026-11-13 | [solution](problems/1107-count-rows-per-group) |
+| [Customers Who Never Placed an Order](https://www.deep-ml.com/problems/1460) | easy | 2026-11-16 | [solution](problems/1460-customers-who-never-placed-an-order) |
 | [Delete Duplicate Emails Keeping One](https://www.deep-ml.com/problems/1112) | easy | 2026-11-15 | [solution](problems/1112-delete-duplicate-emails-keeping-one) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-11-05 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-11-13 | [solution](problems/0078-descriptive-statistics-calculator) |
