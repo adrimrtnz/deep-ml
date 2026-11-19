@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T08:38:10.222Z",
+  "generated_at": "2026-11-19T15:32:06.671Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -604,6 +604,19 @@
       "last_pushed_at": "2026-11-18T08:38:09.480Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:2217": {
+      "kind": "problem",
+      "id": "2217",
+      "title": "Filter Rows with WHERE, Then Groups with HAVING",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/2217",
+      "path": "problems/2217-filter-rows-with-where-then-groups-with-having",
+      "first_solved_at": "2026-11-19T15:32:04.901Z",
+      "last_pushed_at": "2026-11-19T15:32:04.901Z",
+      "language": "sql",
+      "lines": 5
     }
   }
 }
